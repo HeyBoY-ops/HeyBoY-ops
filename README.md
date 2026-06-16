@@ -1,4 +1,6 @@
-![logo](https://github.com/HeyBoY-ops/HeyBoY-ops/blob/main/Purple%20Modern%20Gaming%20Youtube%20Banner.png)
+
+<img align="center" alt="Logo" width="100vw" height="300vh"
+src="https://github.com/HeyBoY-ops/HeyBoY-ops/blob/main/goku.gif" />
 
 <h1 align="center">Hi, I'm Abhishek Sharma 👋</h1>
 <h3 align="center">Computer Science & Data Science Undergraduate</h3>
